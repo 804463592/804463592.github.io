@@ -2,9 +2,9 @@
 title: 深度学习超度指南
 SEOTitle: leebe | leebe Blog
 header-img: img/blog-desktop.jpg
-email: 1556905690@qq.com
+email: 804463592@qq.com
 description: "614B  "
-keyword: "CS, DeepLearning, Machine Learning"
+keyword: "小菜鸟"
 url: "https://"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     _WDD
-zhihu_username:     王大东
-github_username:    wdd233
-twitter_username:   wdd
+weibo_username:     lb
+zhihu_username:     renwu
+github_username:    804463592
+twitter_username:   nothing
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
